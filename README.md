@@ -22,4 +22,27 @@ Challenge your typing skills with this exciting game powered by a random word ba
 - High-score leaderboard to compete with others.  
 - Customizable game settings like time limits or difficulty levels.  
 
+## For Developers  
+To run this project locally, you will need **Node.js** installed on your machine. Follow the steps below to get started:
+
+1. **Install Node.js**: If you don't have it yet, download and install Node.js from [https://nodejs.org/](https://nodejs.org/).
+
+2. **Clone the repository**: 
+   ```bash
+   git clone <repository_url>
+   cd <project_directory>
+   ```
+
+3. **Run the server**:
+   To start the server, use the following command:
+   ```bash
+   node server.mjs
+   ```
+   This will start the game on your local machine, and you can access it by opening `http://localhost:3000` in your browser.
+
+4. **Modify the code**:
+   - Customize the word bank, gameplay mechanics, or add features like a timer and score tracker.
+
 Test your typing speed and reflexes in this fast-paced game! 🚀  
+
+`thanks and enjoy! - marco`
